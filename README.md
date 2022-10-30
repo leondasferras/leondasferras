@@ -2,7 +2,9 @@
 ## I'm beginner *Front-end developer* from Ekaterinburg!
 
 ### My Stack 
-(https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)
+[![MyStack](https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)]
+
+### 💬 [![telegram](https://img.shields.io/badge/-@MaryaSkosyrskaya-fff?style=flat-square&labelColor=fff&logo=Telegram&logoColor=white&color=fff)](https://t.me/MaryaSkosyrskaya) 
 
 <!--
 **leondasferras/leondasferras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
