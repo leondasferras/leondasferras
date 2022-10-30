@@ -9,4 +9,4 @@
 [<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 [Telegram]: https://t.me/LevPenzin
-[Gmail]: lev.penzin.web@gmail.com
+[Gmail]: mailto:lev.penzin.web@gmail.com
