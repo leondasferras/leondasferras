@@ -6,6 +6,7 @@
 
 ### Contacts
 [<img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]@LevPenzin
+<br>
 [<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]lev.penzin.web@gmail.com
 
 [Telegram]: https://t.me/LevPenzin
