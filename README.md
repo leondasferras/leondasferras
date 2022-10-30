@@ -2,21 +2,10 @@
 ## I'm beginner *Front-end developer* from Ekaterinburg!
 
 ### My Stack 
-[![MyStack](https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)]
+[![MyStack](https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)
 
-### 💬 [![telegram](https://img.shields.io/badge/-@LevPenzin-fff?style=flat-square&labelColor=fff&logo=Telegram&logoColor=white&color=fff)](https://t.me/LevPenzin) 
+### Contacts
+[<img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]@LevPenzin
+[<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]lev.penzin.web@gmail.com
 
-<!--
-**leondasferras/leondasferras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram]: https://t.me/LevPenzin
