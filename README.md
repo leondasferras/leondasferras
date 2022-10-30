@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Lev.
 ## I'm beginner *Front-end developer* from Ekaterinburg!
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)
+### My Stack 
+(https://skills.thijs.gg/icons?i=js,ts,react,redux,html,css)](https://skills.thijs.gg)
 
 <!--
 **leondasferras/leondasferras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
