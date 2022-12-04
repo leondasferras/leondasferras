@@ -6,7 +6,10 @@
 
 ### Contacts
 [<img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
-[<img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="Mail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" />][Gmail]
+[<img align="left" alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />][WhatsApp]
+
 
 [Telegram]: https://t.me/LevPenzin
-[Gmail]: mailto:lev.penzin.web@gmail.com
+[Mail]: mailto:lev.penzin.web@gmail.com
+[WhatsApp]: https://api.whatsapp.com/send?phone=79041666756
