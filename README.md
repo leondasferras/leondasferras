@@ -17,9 +17,6 @@
 
 ### :man_technologist: Обо мне : 
 Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Екатеринбурга.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: В свободное время изучаю для себя актуальные технологии front-end разработки.
 
